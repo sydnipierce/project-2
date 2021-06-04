@@ -1,0 +1,32 @@
+Country,Number,Channel ID,Title,Assignable?
+MX,1,UCBR8-60-B28hp2BmDPdntcQ,Film & Animation,True
+MX,2,UCBR8-60-B28hp2BmDPdntcQ,Autos & Vehicles,True
+MX,10,UCBR8-60-B28hp2BmDPdntcQ,Music,True
+MX,15,UCBR8-60-B28hp2BmDPdntcQ,Pets & Animals,True
+MX,17,UCBR8-60-B28hp2BmDPdntcQ,Sports,True
+MX,18,UCBR8-60-B28hp2BmDPdntcQ,Short Movies,False
+MX,19,UCBR8-60-B28hp2BmDPdntcQ,Travel & Events,True
+MX,20,UCBR8-60-B28hp2BmDPdntcQ,Gaming,True
+MX,21,UCBR8-60-B28hp2BmDPdntcQ,Videoblogging,False
+MX,22,UCBR8-60-B28hp2BmDPdntcQ,People & Blogs,True
+MX,23,UCBR8-60-B28hp2BmDPdntcQ,Comedy,True
+MX,24,UCBR8-60-B28hp2BmDPdntcQ,Entertainment,True
+MX,25,UCBR8-60-B28hp2BmDPdntcQ,News & Politics,True
+MX,26,UCBR8-60-B28hp2BmDPdntcQ,Howto & Style,True
+MX,27,UCBR8-60-B28hp2BmDPdntcQ,Education,True
+MX,28,UCBR8-60-B28hp2BmDPdntcQ,Science & Technology,True
+MX,30,UCBR8-60-B28hp2BmDPdntcQ,Movies,False
+MX,31,UCBR8-60-B28hp2BmDPdntcQ,Anime/Animation,False
+MX,32,UCBR8-60-B28hp2BmDPdntcQ,Action/Adventure,False
+MX,33,UCBR8-60-B28hp2BmDPdntcQ,Classics,False
+MX,34,UCBR8-60-B28hp2BmDPdntcQ,Comedy,False
+MX,35,UCBR8-60-B28hp2BmDPdntcQ,Documentary,False
+MX,36,UCBR8-60-B28hp2BmDPdntcQ,Drama,False
+MX,37,UCBR8-60-B28hp2BmDPdntcQ,Family,False
+MX,38,UCBR8-60-B28hp2BmDPdntcQ,Foreign,False
+MX,39,UCBR8-60-B28hp2BmDPdntcQ,Horror,False
+MX,40,UCBR8-60-B28hp2BmDPdntcQ,Sci-Fi/Fantasy,False
+MX,41,UCBR8-60-B28hp2BmDPdntcQ,Thriller,False
+MX,42,UCBR8-60-B28hp2BmDPdntcQ,Shorts,False
+MX,43,UCBR8-60-B28hp2BmDPdntcQ,Shows,False
+MX,44,UCBR8-60-B28hp2BmDPdntcQ,Trailers,False
