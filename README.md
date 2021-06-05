@@ -5,6 +5,10 @@ This project uses the Extract, Transform, Load (ETL) process to combine multiple
 
 ## Data Destination
 The datasets will be stored as tables in PostgreSQL, a relational database, due to the field relationships across datasets.
+video (id , title)
+countries (code, country_name)
+video_countries (video_id, country_code, comment_count, views)
+
 
 ## Requirements
 1. Download the data source files from Kaggle.
