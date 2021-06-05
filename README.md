@@ -11,10 +11,10 @@ The datasets will be stored as tables in PostgreSQL, a relational database, due 
 2. Convert the JSON files for all 10 countries to CSV for use in PostgreSQL.
 3. Create tables in PostgreSQL to house each CSV file, assigning primary/foreign keys.
 4. Create an ERD to display the table relationships.
-5. Achieve saldkfjasldjf 1:
+5. Achieve First Normal Form:
 a. Check for duplicate rows in all tables.
 b. Split the tag column into multiple columns due to multiple tags being present for each video.
-6. Achieve alksdjfalsdkjf 2:
+6. Achieve Second Normal Form:
 a. Join category tables for all countries and create a new serial primary key.
 b. Add country column to video tables and join video tables for all countries.
 
