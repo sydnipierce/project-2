@@ -7,10 +7,11 @@ This project uses the Extract, Transform, Load (ETL) process to combine multiple
 The datasets will be stored as tables in PostgreSQL, a relational database, due to the field relationships across datasets.
 video (id , title)
 countries (code, country_name)
-video_countries (video_id, country_code, comment_count, views)
+video_countries (video_id, country_code, comment_count, views, date)
 
 
 ## Requirements
+1. For 2017
 1. Download the data source files from Kaggle.
 2. Convert the JSON files for all 10 countries to CSV for use in PostgreSQL.
 3. Create tables in PostgreSQL to house each CSV file, assigning primary/foreign keys.
