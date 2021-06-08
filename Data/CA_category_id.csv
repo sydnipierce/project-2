@@ -1,4 +1,4 @@
-Country,Number,Channel ID,Title,Assignable?
+country,id_number,channel_id,title,assignable
 CA,1,UCBR8-60-B28hp2BmDPdntcQ,Film & Animation,True
 CA,2,UCBR8-60-B28hp2BmDPdntcQ,Autos & Vehicles,True
 CA,10,UCBR8-60-B28hp2BmDPdntcQ,Music,True
